@@ -23,11 +23,12 @@ Configuration du projet
 Ouvrez le projet dans Android Studio.
 Synchronisez le projet avec Gradle.
 Configurez les permissions dans le fichier AndroidManifest.xml :
+
 xml
-Copier le code
 <uses-permission android:name="android.permission.CAMERA"/>
 <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
 Assurez-vous que votre appareil est configuré pour tester l'application sur un appareil physique ou un émulateur compatible.
+
 Utilisation
 L'application démarrera en arrière-plan une fois lancée.
 Lorsque vous recevrez un appel entrant, le flash commencera à clignoter.
