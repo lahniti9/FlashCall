@@ -1,3 +1,11 @@
+
+![WhatsApp Image 2024-11-14 at 19 33 14](https://github.com/user-attachments/assets/4dbc4395-09ae-4aed-8328-4f676a6a5d24)
+
+![WhatsApp Image 2024-11-14 at 19 33 15 (1)](https://github.com/user-attachments/assets/d99f6292-5bdb-4682-bbbd-3bd95d36e366)
+
+![WhatsApp Image 2024-11-14 at 19 33 15](https://github.com/user-attachments/assets/6d0f6998-8808-44f9-966a-6aa95b00f1f9)
+
+
 # FlashCall
 
 **FlashCall** est une application Android qui utilise le flash de l'appareil pour clignoter lors des appels entrants. Cette application est conçue pour aider les utilisateurs à recevoir des notifications visuelles via le flash de leur téléphone.
