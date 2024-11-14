@@ -1,0 +1,30 @@
+<resources>
+                <!-- Background Colors -->
+                <color name="background_color">#F5F5F5</color> <!-- Light gray for main background -->
+                <color name="card_background">#FFFFFF</color> <!-- White for card backgrounds -->
+                <color name="toggle_background">#E0E0E0</color> <!-- Light gray for toggle card -->
+
+                <!-- Text Colors -->
+                <color name="title_text_color">#333333</color> <!-- Dark gray for title text -->
+                <color name="secondary_text_color">#666666</color> <!-- Medium gray for subtitle text -->
+                <color name="switch_text_color">#424242</color> <!-- Darker gray for switch text -->
+                <color name="status_text_color">#757575</color> <!-- Lighter gray for status text -->
+                <color name="info_text_color">#9E9E9E</color> <!-- Light gray for footer info text -->
+
+                <!-- Icon Colors -->
+                <color name="icon_tint_color">#FF6F00</color> <!-- Amber for app icon -->
+
+                <!-- Switch Colors -->
+                <color name="switch_thumb_color">#4CAF50</color> <!-- Green for switch thumb when enabled -->
+                <color name="switch_track_color">#BDBDBD</color> <!-- Gray for switch track -->
+
+                <!-- Status Background Color -->
+                <color name="status_background">#EEEEEE</color> <!-- Light background for status section -->
+
+        <!-- Accent Colors -->
+        <color name="accent_color">#FFC107</color> <!-- Amber for accents, if needed -->
+        <color name="green">#4CAF50</color>
+        <color name="light_green">#A5D6A7</color>
+        <color name="red">#F44336</color>
+        <color name="light_red">#EF9A9A</color>
+</resources>
